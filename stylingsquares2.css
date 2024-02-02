@@ -6,3 +6,12 @@
     position: relative;
     left: 50%;
 }
+
+.FirstSpecialSquare{
+    width: 13%;
+    background-color: blue;
+    border-style: ridge; border-color: rgb(255, 145, 0);
+    border-radius: 10px 40px 40px 10px;
+    position: relative;
+    left: 87%;
+}
