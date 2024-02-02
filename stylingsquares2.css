@@ -1,0 +1,8 @@
+#SquareTwo{
+    width: 10%;
+    background-color: lightsalmon;
+    justify-items: center;
+    border-style: inset; border-color: rgb(238, 29, 92);
+    position: relative;
+    left: 50%;
+}
