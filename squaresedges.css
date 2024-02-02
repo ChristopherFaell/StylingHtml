@@ -1,0 +1,39 @@
+body{
+    background-color: orange;
+}
+div{
+    height: 20%;
+    margin-bottom: 1cm;
+    border-width: 5px;
+}
+.SquareOne{
+    width: 15%;
+    background-color: lightcoral;
+    border-style: dotted; border-color: rgb(252, 24, 24);
+    background-image: url(chris.j);
+}
+
+.SquareLong{
+    width: 100%;
+    background-color: aquamarine;
+    border-style: groove; border-color: blue;
+    border-radius: 2em;
+}
+
+#SquareTwo{
+    width: 10%;
+    background-color: lightsalmon;
+    justify-items: center;
+    border-style: inset; border-color: rgb(238, 29, 92);
+    position: relative;
+    left: 50%;
+}
+
+.FirstSpecialSquare{
+    width: 13%;
+    background-color: blue;
+    border-style: ridge; border-color: rgb(255, 145, 0);
+    border-radius: 10px 40px 40px 10px;
+    position: relative;
+    left: 87%;
+}
