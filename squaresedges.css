@@ -37,3 +37,18 @@ div{
     position: relative;
     left: 87%;
 }
+
+.SquareThree{
+    width: 20%;
+    background-color: rgb(130, 227, 252);
+    border-style: double; border-color: blueviolet;
+}
+
+#SecondSpecialSquare{
+    width: 13%;
+    background-color: rgb(255, 178, 223);
+    border-style: outset; border-color: rgb(100, 15, 20);
+    border-radius: 40px 10px 10px 40px;
+    position: relative;
+    left: 85%;
+}
