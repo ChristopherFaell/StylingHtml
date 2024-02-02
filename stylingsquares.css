@@ -12,3 +12,10 @@ div{
     border-style: dotted; border-color: rgb(252, 24, 24);
     background-image: url(chris.j);
 }
+
+.SquareLong{
+    width: 100%;
+    background-color: aquamarine;
+    border-style: groove; border-color: blue;
+    border-radius: 2em;
+}
