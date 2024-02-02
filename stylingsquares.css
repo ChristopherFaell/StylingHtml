@@ -6,3 +6,9 @@ div{
     margin-bottom: 1cm;
     border-width: 5px;
 }
+.SquareOne{
+    width: 15%;
+    background-color: lightcoral;
+    border-style: dotted; border-color: rgb(252, 24, 24);
+    background-image: url(chris.j);
+}
