@@ -1,3 +1,8 @@
 body{
     background-color: orange;
 }
+div{
+    height: 20%;
+    margin-bottom: 1cm;
+    border-width: 5px;
+}
